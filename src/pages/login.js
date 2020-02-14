@@ -9,7 +9,7 @@ import firebase from 'react-native-firebase';
 import axios from 'axios';
 
 
-const chave = 'AAAAmnk6t7I:APA91bF44grj0EYKH1PtjXmFvhQLoabFT-CXa_dtlevQQYbPljo5iuLmJSt2ZoXk3DVs6Nxuvr_jty5XzCYdWzTgAUGgMvJOcm7KeoXY3we9j1g_iIACjr7mAaiLRBCWRF9ijWQRSHz6';
+const chave = '';
 
 export default class Login extends Component {
 
